@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1252afd1dc9f5469c30b4174466bb74f\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\89be89f0ed1c432ab4862a3c9cda8fcc\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\5c2d055b9576f9b1a68fe7075632917c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f9a4816ef28f36121469feada94ba9f9\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\359a50d098d5826e3b063aef4f5919f4\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d691e4df831fee6b702af0c00978a18c\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\635c24964653e249ae4d67ce7a0b8990\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\4cee71b86863a66e9289d31f3c1f1c91\jetified-circleimageview-3.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\939487120f8beb920a58dc41bbe9f02a\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b8e1c55b226b4c886055bf095cd57a2f\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\82a0035bf4a30e92c875e315dbee6bab\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\34741137234e1c5c22970a0a3b0c3fd3\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\204d56b624e751e7990ccfa8a11e8889\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\96e5c73eb0fa1a29cd41cd8f794e1b0f\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9b615267ab01aab8f9f5ed2bdc1c6d21\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\0fae1921ea392fcf1099ebc521d9f280\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\c9ce6976a0ee114a7df6a78a9d188526\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\750b7b3e6ba5087b346f6e90470bbb4c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:11:5-71:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1252afd1dc9f5469c30b4174466bb74f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1252afd1dc9f5469c30b4174466bb74f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:17:5-23:19
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:17:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\5c2d055b9576f9b1a68fe7075632917c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\5c2d055b9576f9b1a68fe7075632917c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f9a4816ef28f36121469feada94ba9f9\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f9a4816ef28f36121469feada94ba9f9\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\4cee71b86863a66e9289d31f3c1f1c91\jetified-circleimageview-3.0.1\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\4cee71b86863a66e9289d31f3c1f1c91\jetified-circleimageview-3.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\34741137234e1c5c22970a0a3b0c3fd3\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\34741137234e1c5c22970a0a3b0c3fd3\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\96e5c73eb0fa1a29cd41cd8f794e1b0f\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\96e5c73eb0fa1a29cd41cd8f794e1b0f\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:13:9-43
+	android:roundIcon
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.gic.giccourses.Activities.CoursePurchaseActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:20:9-89
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:20:19-86
+activity#com.gic.giccourses.Activities.ChangePasswordActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:21:9-24:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:24:13-49
+	android:noHistory
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:22:13-80
+activity#com.gic.giccourses.Activities.EditProfileActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:26:13-77
+activity#com.gic.giccourses.Activities.QuizActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:28:9-31:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:31:13-49
+	android:noHistory
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:29:13-70
+activity#com.gic.giccourses.Activities.LessonActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:32:9-34:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:33:13-72
+activity#com.gic.giccourses.Activities.SignInActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:35:9-38:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:38:13-49
+	android:noHistory
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:36:13-72
+activity#com.gic.giccourses.Activities.LauncherActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:42:13-49
+	android:noHistory
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:40:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.gic.giccourses.Activities.BottomNavigationActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:49:9-52:45
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:51:13-49
+	tools:ignore
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:52:13-42
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:50:13-82
+activity#com.gic.giccourses.Activities.PopUpActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:53:9-56:53
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:55:13-49
+	android:theme
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:56:13-50
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:54:13-71
+activity#com.gic.giccourses.Activities.FullScreenLessonPlayerActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:57:9-60:74
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:59:13-50
+	android:theme
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:60:13-71
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:58:13-88
+activity#com.gic.giccourses.Activities.CourseDetailsActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:62:13-79
+activity#com.gic.giccourses.Activities.CoursesActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:64:9-66:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:65:13-73
+activity#com.gic.giccourses.Activities.MainActivity
+ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:69:13-45
+	android:name
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml:68:13-70
+uses-sdk
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1252afd1dc9f5469c30b4174466bb74f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1252afd1dc9f5469c30b4174466bb74f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\89be89f0ed1c432ab4862a3c9cda8fcc\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\89be89f0ed1c432ab4862a3c9cda8fcc\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\5c2d055b9576f9b1a68fe7075632917c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\5c2d055b9576f9b1a68fe7075632917c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f9a4816ef28f36121469feada94ba9f9\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f9a4816ef28f36121469feada94ba9f9\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\359a50d098d5826e3b063aef4f5919f4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\359a50d098d5826e3b063aef4f5919f4\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d691e4df831fee6b702af0c00978a18c\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d691e4df831fee6b702af0c00978a18c\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\635c24964653e249ae4d67ce7a0b8990\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\635c24964653e249ae4d67ce7a0b8990\jetified-Android-SpinKit-1.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\4cee71b86863a66e9289d31f3c1f1c91\jetified-circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\4cee71b86863a66e9289d31f3c1f1c91\jetified-circleimageview-3.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\939487120f8beb920a58dc41bbe9f02a\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\939487120f8beb920a58dc41bbe9f02a\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b8e1c55b226b4c886055bf095cd57a2f\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b8e1c55b226b4c886055bf095cd57a2f\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\82a0035bf4a30e92c875e315dbee6bab\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\82a0035bf4a30e92c875e315dbee6bab\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f542154ac59f81cbeab242629b3a5026\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\34741137234e1c5c22970a0a3b0c3fd3\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\34741137234e1c5c22970a0a3b0c3fd3\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\204d56b624e751e7990ccfa8a11e8889\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\204d56b624e751e7990ccfa8a11e8889\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\96e5c73eb0fa1a29cd41cd8f794e1b0f\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\96e5c73eb0fa1a29cd41cd8f794e1b0f\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9b615267ab01aab8f9f5ed2bdc1c6d21\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\9b615267ab01aab8f9f5ed2bdc1c6d21\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\0fae1921ea392fcf1099ebc521d9f280\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\0fae1921ea392fcf1099ebc521d9f280\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\c9ce6976a0ee114a7df6a78a9d188526\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\c9ce6976a0ee114a7df6a78a9d188526\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\750b7b3e6ba5087b346f6e90470bbb4c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\750b7b3e6ba5087b346f6e90470bbb4c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		ADDED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WorksSpace\GicCourses\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:15:22-74
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:18:9-22:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:20:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.5.2] C:\Users\forkan\.gradle\caches\transforms-2\files-2.1\3e2a21a8c06f8a617ac41905d124f2da\jetified-uploadservice-3.5.2\AndroidManifest.xml:19:13-65

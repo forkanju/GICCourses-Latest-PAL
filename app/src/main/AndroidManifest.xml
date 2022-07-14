@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gic.giccourses">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.gic.giccourses.Activities.CoursePurchaseActivity" />
+        <activity
+            android:name="com.gic.giccourses.Activities.ChangePasswordActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.EditProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.QuizActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.LessonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.SignInActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait" /> <!-- No History true means it will not let you go back to this activity... thats cool -->
+        <activity
+            android:name="com.gic.giccourses.Activities.LauncherActivity"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gic.giccourses.Activities.BottomNavigationActivity"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.gic.giccourses.Activities.PopUpActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.PopUp" />
+        <activity
+            android:name="com.gic.giccourses.Activities.FullScreenLessonPlayerActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.gic.giccourses.Activities.CourseDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.CoursesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.gic.giccourses.Activities.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

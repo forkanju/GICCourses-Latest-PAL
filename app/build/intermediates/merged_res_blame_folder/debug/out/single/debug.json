@@ -1,0 +1,1534 @@
+[
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_my_course_fragment.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\my_course_fragment.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_arrow_right_dark.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_arrow_right_dark.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wishlist_filled.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\wishlist_filled.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_section_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\section_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_key_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_key_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_progress_bar.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_requirements.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\requirements.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_menu_search.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_filter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\filter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_magnifier.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\ic_magnifier.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_my_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\my_course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_wishlist_filled.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\wishlist_filled.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_splash_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\splash_logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_full_screen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_requirements.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\requirements.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_camera.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\font_google_sans_thin.ttf.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\font\\google_sans_thin.ttf"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected_tab.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\unselected_tab.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_video_not_found.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\video_not_found.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_full_screen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_course.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\course.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_category_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\category_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_fullscreen_activity.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\fullscreen_activity.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_arrow_right.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\arrow_right.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_relative_layout.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_relative_layout.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_complete_rounded_skyblue_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\complete_rounded_skyblue_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_wishlist_fill.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\wishlist_fill.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_left_arrow.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_arrow_back_black_24dp.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_menu_search.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_curriculum.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\curriculum.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_edit_alter.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_edit_alter.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_close_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_user_bluish.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_user_bluish.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_attachment_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\attachment_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_smaller_email_alternavite_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\smaller_email_alternavite_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\font_google_sans_medium.ttf.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\font\\google_sans_medium.ttf"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_refresh.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_refresh.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_linkedin.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_linkedin.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_wishlist_fragment.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\wishlist_fragment.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_edit.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_curriculum.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\curriculum.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_requirements.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\requirements.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy4.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\dummy4.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_arrow_left_white.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_arrow_left_white.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_filter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\filter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_refresh.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_refresh.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_pop_up.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\pop_up.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\anim_bounce.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-ldpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_user_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_user_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_fullscreen.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\fullscreen.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_email_alternative.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_email_alternative.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_long_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\long_arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy6.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\dummy6.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_upload.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_upload.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_account_fragment.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\account_fragment.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_include_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_include_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_change_password.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_course_package.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\course_package.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_email.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_email.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_edit.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_done_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\done_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_play_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\play_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_user_bluish.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_user_bluish.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_edit.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_edit.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_spinner_triangle.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\spinner_triangle.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy3.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\dummy3.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_twitter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_user_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_user_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_student.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\student.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_requirements.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\requirements.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_account.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\account.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_long_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\long_arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_full_screen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_refresh.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_refresh.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_nav_icon_color_selector.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\bottom_nav_icon_color_selector.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_user_alter.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_user_alter.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_user.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_custom_orange_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_custom_orange_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_wishlist_empty.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\wishlist_empty.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_key_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_key_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_signin_placeholder.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\signin_placeholder.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_favicon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\ic_action_favicon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video_not_found.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\video_not_found.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_fullscreen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\fullscreen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_key.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_key.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_edt_bg_selected.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\edt_bg_selected.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_arrow_right_dark.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_arrow_right_dark.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\menu_super_menu.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\menu\\super_menu.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_share.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_edit_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_edit_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_facebook.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_facebook.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_purchase.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_purchase.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\font_google_sans_regular.ttf.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\font\\google_sans_regular.ttf"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_attachment_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\attachment_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_course_include.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\fragment_course_include.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_close_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\close_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_filter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\filter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_email_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_email_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_done_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\done_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_key.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_key.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_email_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_email_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lesson.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_lesson.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_upload.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_wishlist_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\wishlist_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_course_details.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_course_details.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_signin.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_quiz_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\quiz_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_left_arrow.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\left_arrow.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_camera.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_filter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\filter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_long_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\long_arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_user.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_wishlist_filled.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\wishlist_filled.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_arrow_right_dark.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_arrow_right_dark.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_more_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\more_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_fragment.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_fragment.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_curriculum.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\curriculum.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_facebook.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_facebook.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_play_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\play_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_refresh.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_refresh.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_course_outcome.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\fragment_course_outcome.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_share.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_user_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_user_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_refresh.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_refresh.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wishlist_filled.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\wishlist_filled.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_video_not_found.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\video_not_found.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_user.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_user.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_spinner_triangle.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\spinner_triangle.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_course_package.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\course_package.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_linkedin.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_linkedin.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_key_alternative.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_key_alternative.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_download.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_download.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_full_screen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_arrow_left.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_edt_bg_selector.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\edt_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_dark.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\logo_dark.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_user.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_smaller_key_alternavite_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\smaller_key_alternavite_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_email.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_email.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-ldpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_sky_blue_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_sky_blue_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_arrow_left_white.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_favicon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_favicon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_filter_snipper.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\ic_filter_snipper.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_lesson_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\lesson_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_wishlist_filled.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\wishlist_filled.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_done_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\done_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_spinner_triangle.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\spinner_triangle.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\circular_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_account.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\account.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_long_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\long_arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_camera.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_user_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_user_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_wishlist_empty.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\wishlist_empty.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_key_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_key_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_custom_green_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_custom_green_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_share.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_tabs_selector.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\tabs_selector.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_wishlist_empty.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\wishlist_empty.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_student.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\student.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_filter_snipper.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\ic_filter_snipper.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_bottom_navigation_view.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\bottom_navigation_view.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_more_horizontal.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_more_horizontal.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_arrow_left_white.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\arrow_left_white.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_favicon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\ic_action_favicon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_arrow_left.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_linkedin.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_linkedin.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_upload.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_my_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\my_course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_wishlist_empty.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\wishlist_empty.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_email.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_email.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_arrow_right_dark.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_arrow_right_dark.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_latest_course_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\latest_course_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_share.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\share.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_curriculum_section_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_curriculum_section_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_fullscreen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\fullscreen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_arrow_left.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_done_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\done_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_close_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_my_course.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\my_course.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_left_arrow.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_course_package.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\course_package.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_left_arrow.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_edt_bg_normal.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\edt_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_account.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\account.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_my_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\my_course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_edit.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\font_google_sans_bold.ttf.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\font\\google_sans_bold.ttf"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_linkedin.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_linkedin.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_play_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\play_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_filter_snipper.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\ic_filter_snipper.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video_not_found.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\video_not_found.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_more_horizontal.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_more_horizontal.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_email.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_email.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_wishlist.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\wishlist.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_quiz_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\quiz_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_more_horizontal.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_more_horizontal.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_user_bluish.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_user_bluish.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_key.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_key.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_do_login.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\do_login.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_camera.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_camera.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_student.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\student.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_custom_blue_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_custom_blue_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_more_horizontal.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_more_horizontal.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_curriculum.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\curriculum.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_outcome_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_outcome_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_requirement_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_requirement_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_student.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\student.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_video_not_found.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\video_not_found.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_arrow_left.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_left.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_email_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_email_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_course_requirement.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\fragment_course_requirement.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_filter_page.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_filter_page.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_arrow_right_dark.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_arrow_right_dark.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_banner.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\banner.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_more_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\more_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_download.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_download.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_red_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_red_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_facebook.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_facebook.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_relative_layout_background.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\relative_layout_background.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected_tab.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\selected_tab.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_circular_image.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\circular_image.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_shadow.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_left_arrow.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\left_arrow.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_spinner_background.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\custom_spinner_background.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_key_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_key_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_attachment_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\attachment_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_menu_search.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_close.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_spinner_triangle.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_triangle.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_arrow_left_white.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\arrow_left_white.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_empty_content.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\ic_empty_content.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_my_course_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\my_course_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_filter_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\filter_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_email.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_email.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_icon_download.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_download.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_borderless_relativelayout.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\borderless_relativelayout.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_course_banner_gradient.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\course_banner_gradient.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_with_search.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\toolbar_with_search.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_complete_rounded_pink_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\complete_rounded_pink_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy1.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\dummy1.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_account.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\account.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_quiz_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\quiz_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_twitter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_edit_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_edit_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluish_logout.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\bluish_logout.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_more_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\more_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_edit_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_edit_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluish_key.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\bluish_key.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_filter_snipper.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\ic_filter_snipper.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_my_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\my_course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_courses.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_courses.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_upload.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_launcher.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_course_package.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\course_package.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_more_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\more_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_close_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_full_screen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_full_screen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_courses.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\courses.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_menu_search.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\ic_menu_search.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_linkedin.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_linkedin.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_key.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_key.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_filter_snipper.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_filter_snipper.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_long_arrow_right.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\long_arrow_right.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_twitter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_spinner_triangle.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\spinner_triangle.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_user.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_arrow_left.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\arrow_left.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_quiz_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\quiz_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_play_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\play_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_share.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_close_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_bluish_user.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\bluish_user.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_download.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_download.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_course.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\course.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_done_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\done_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_favicon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_favicon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_quiz_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\quiz_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_filter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\filter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_edit_alter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_edit_alter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_attachment_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\attachment_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_facebook.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_facebook.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_menu_search.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_fullscreen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\fullscreen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_attachment_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\attachment_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_signin_old.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\signin_old.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_key.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_key.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_upload.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_upload.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_curriculum_lesson_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_curriculum_lesson_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_play_icon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\play_icon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_camera.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_camera.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_student.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\student.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_curriculum.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\curriculum.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_fullscreen.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\fullscreen.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_user_bluish.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\icon_user_bluish.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_more_icon.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\more_icon.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_edit.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_user_bluish.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_user_bluish.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_error.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\error.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_action_favicon.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_favicon.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_play.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxxhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_icon_download.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-mdpi\\icon_download.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_icon_twitter.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\icon_twitter.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\font_google_sans_light.ttf.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\font\\google_sans_light.ttf"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_email_alternative.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_email_alternative.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_course_cell.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\course_cell.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_with_refresh.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\layout\\toolbar_with_refresh.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon_facebook.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xxhdpi\\icon_facebook.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_twitter.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_account.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-anydpi\\account.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_grey_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_grey_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_course_package.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\course_package.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy2.jpg.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\dummy2.jpg"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_icon_more_horizontal.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-xhdpi\\icon_more_horizontal.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_requirements.png.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable-hdpi\\requirements.png"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_navy_blue_button.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_navy_blue_button.xml"
+    },
+    {
+        "merged": "D:\\OfficeProject\\GicCourses\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "D:\\OfficeProject\\GicCourses\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    }
+]

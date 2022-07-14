@@ -1,0 +1,4 @@
+#Mon Aug 16 12:23:55 BDT 2021
+base.0=D\:\\WorksSpace\\GicCourses\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

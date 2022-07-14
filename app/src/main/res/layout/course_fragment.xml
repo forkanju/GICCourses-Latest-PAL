@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+
+    <com.github.ybq.android.spinkit.SpinKitView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/progressBar"
+        style="@style/SpinKitView.Circle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:elevation="200dp"
+        android:visibility="gone"
+        app:SpinKit_Color="@color/textColorGrey" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/homePageScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:overScrollMode="never">
+
+            <RelativeLayout
+                android:id="@+id/homePageLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <!--This textview and the recycler view is responsible for top course section-->
+                <TextView
+                    android:id="@+id/topCourseLabel"
+                    style="@style/headerTitleLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="38dp"
+                    android:text="Latest Courses"
+                    android:textColor="@color/white" />
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerViewForLatestCourses"
+                    android:layout_width="wrap_content"
+                    android:layout_height="300dp"
+                    android:layout_below="@+id/topCourseLabel"
+                    android:clipToPadding="false"
+                    android:overScrollMode="never"
+                    android:padding="5dp"
+                    android:paddingHorizontal="12dp" />
+
+                <!--This textview and recycler view is responsible for Categories section-->
+                <TextView
+                    android:id="@+id/categoriesLabel"
+                    style="@style/headerTitleLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/recyclerViewForLatestCourses"
+                    android:text="Categories"
+                    android:textColor="@color/white" />
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerViewForCategories"
+                    android:layout_width="wrap_content"
+                    android:layout_height="300dp"
+                    android:layout_below="@+id/categoriesLabel"
+                    android:nestedScrollingEnabled="false"
+                    android:overScrollMode="never"
+                    android:padding="5dp"
+                    android:paddingHorizontal="14dp" />
+
+
+            </RelativeLayout>
+
+        </androidx.core.widget.NestedScrollView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+</RelativeLayout>
